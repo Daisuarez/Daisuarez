@@ -1,7 +1,7 @@
 ## Hola bienvenidos, soy Daiana 👋
 
 <p align="center">
-  <img src="https://github.com/Daisuarez/Daisuarez/blob/main/intro.png">
+  <img src="https://github.com/Daisuarez/Daisuarez/blob/main/Portada%20para%20Facebook%20Tecnolog%C3%ADa%20Minimalista%20Negro%20.png">
 </p>
 
 ¡Hola a todos! Soy Daiana Suarez, recién graduada de la Tecnicatura Universitaria en Programación en la Facultad Regional de San Rafael de la Universidad Tecnológica Nacional. En el emocionante viaje de estos dos años académicos, he explorado y practicado diversos lenguajes, desde Java y Python hasta JavaScript, CSS, HTML, ¡y muchos más!
